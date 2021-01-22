@@ -1,0 +1,9 @@
+Depois de analisar o video explicando o que são Arrays vamos as obs:
+para declarar um Array utilizamos "new Array();" 
+para adicionar um novo elemento no array utilizamos NomeDoArray.push()                      //push significa empurrar 
+para deletar um elemento da minha lista utilizamos NomeDoArray.splice(N*posiçao,N*elemento)
+Uma dica muito importante e analizar a documentaçao referente a Array no JS
+      
+            https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+Para acessar algum elemento da lista basta NomeDaLista[N*doelemento]
