@@ -1,0 +1,13 @@
+Declaração de variaveis
+                      const NomeDaVariavel= ValorDaVariavel;
+                      let NomeDaVariavel= ValorDaVariavel;
+                      
+Sempre tente mater um padrao no seu estilo de programção
+
+Conversao de variaveis 
+                    Para realizar esse processo utilizei o ex:
+                    console.log(parseInt("2")) // este exempro vamos converter uma string em uma in
+                    
+Pontos flutuantes sao utizando usanod o "." no lugar da ","
+
+Quando voce usa o termo "const" a variavel nao pode mudar ja o uso do termo let ela pode variar no decorrer do programa 
