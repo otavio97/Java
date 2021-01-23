@@ -1,0 +1,14 @@
+  1) while- assim como no php sua declaração nao muda muita coisa 
+      while(condição){
+                      o que deve repetir;
+                     } 
+ 
+ Breakpont (Pausa o programa onde desejado)
+ 
+ Break (Comando utilizado para parar o progrma)
+ 
+ 2) for - Para alguma condição ele executa uma ação 
+    sua declaração e igual php
+    for(let i=0;i<3;i++){
+        o que vamos repetir;
+    }
